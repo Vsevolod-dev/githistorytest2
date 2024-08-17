@@ -1,3 +1,3 @@
 export function script () {
-    return 'script'
+    return 'script123'
 }

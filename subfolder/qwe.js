@@ -1,3 +1,3 @@
 export function qwe () {
-    return 'qwe'
+    return 'qwe123'
 }
